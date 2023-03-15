@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'employee-created-failed' => 'Employee creation failed',
+    'employee-created-successfully' => 'Employee created successfully',
+    'employee-updated-failed' => 'Employee update failed',
+    'employee-updated-successfully' => 'Employee updated successfully',
+    'employee-deleted-successfully' => 'Employee deleted successfully',
+    'company-created-failed' => 'Company creation failed',
+    'company-created-successfully' => 'Company created successfully',
+    'company-updated-failed' => 'Company update failed',
+    'company-updated-successfully' => 'Company updated successfully',
+    'company-deleted-successfully' => 'Company deleted successfully',
+    'user-login-failed' => 'User login failed',
+    'login-or-password-incorrect' => 'Login or password incorrect',
+    'user-login' => 'User login',
+    'user-logout' => 'User logout',
+    'validation-failed' => 'Validation failed',
+    'profile-updated' => 'Profile updated',
+    'profile-deleted' => 'Profile deleted',
+    'user-created-failed' => 'User creation failed',
+    'user-created' => 'User created',
+    'user-updated-failed' => 'User update failed',
+    'user-updated' => 'User updated',
+];
